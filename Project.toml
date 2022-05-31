@@ -1,0 +1,4 @@
+name = "discreteSIRV"
+uuid = "4e8cbe17-6013-4ec7-a8f3-f82d3311c7bd"
+authors = ["Bartosz Zbik <bartosz@zbik.org>"]
+version = "0.1.0"
